@@ -9,7 +9,7 @@ export default defineNuxtConfig({
 
   // 开发模式端口(npm run dev)
   devServer: {
-    port: 3000,
+    port: 52001,
     host: '0.0.0.0',
   },
 

@@ -6,7 +6,7 @@ import { defineNitroPlugin } from 'nitropack/runtime'
  * 启动时 patch process.env,让 Nitro 的 listen 拿到我们指定的端口。
  * 不读 PORT / NITRO_PORT,只用这里的固定值。
  */
-const PRODUCTION_PORT = 3000
+const PRODUCTION_PORT = 52001
 
 export default defineNitroPlugin(() => {
   // listen 之前 patch 环境变量
