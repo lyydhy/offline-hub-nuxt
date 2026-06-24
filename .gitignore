@@ -1,0 +1,28 @@
+# Nuxt
+.nuxt/
+.output/
+.nitro/
+.cache/
+dist/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Data files (runtime generated)
+data/hub.db
+data/hub.db-*
+data/zips/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+.DS_Store
+
+# Logs
+*.log
