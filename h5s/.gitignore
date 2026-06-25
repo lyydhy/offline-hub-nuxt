@@ -1,0 +1,9 @@
+# 每个子项目里都有各自的 .gitignore
+# 这里只忽略一些跨项目文件
+
+# 测试 zip
+test_*.zip
+
+# 临时文件
+*.log
+.DS_Store
