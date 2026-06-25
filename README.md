@@ -152,6 +152,10 @@ node .output/server/index.mjs
 - **[flutter_webview_preloader](https://github.com/lyydhy/flutter_webview_preloader)** — Flutter H5 容器插件
 - 这个服务就是为它的 `OfflineManager.registerPackage()` 设计的
 
+## 📖 AI 友好开发文档
+
+> **给 AI agent / 接手开发者**：[AI_DEV.md](./AI_DEV.md) 包含完整的开发指南（架构、文件清单、设计决策、任务模板、调试技巧、API 速查、上线 Checklist、Do/Don't）。读完后 30 分钟内可上手修改。
+
 ## 📄 License
 
 [MIT](LICENSE) © 2026 lyydhy
